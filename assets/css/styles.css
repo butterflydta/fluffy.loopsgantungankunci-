@@ -1,0 +1,18 @@
+#masalah {
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  color: #ffffff;
+  max-height: -1px;
+  /*margin-top: 2px;*/
+  /*padding-top: 2px;*/
+}
+
+svg {
+  padding-top: 0px;
+}
+
